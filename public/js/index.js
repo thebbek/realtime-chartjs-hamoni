@@ -1,4 +1,4 @@
-let hamoni = new Hamoni("ACCOUNT_ID", "APP_ID");
+let hamoni = new Hamoni("55c89e89-59c7-4a1f-9ea2-ae0bc1f080c7", "9af4a55e261a4524bf429f1da1247e19");
 
 hamoni
   .connect()
